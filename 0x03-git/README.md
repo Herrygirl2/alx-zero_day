@@ -1,1 +1,1 @@
-Navigating into git
+Navigating into git.
